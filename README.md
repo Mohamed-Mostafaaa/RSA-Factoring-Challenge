@@ -1,6 +1,6 @@
 # RSA-Factoring-Challenge
 
-![RSA-Image](images/RSA-img.JPG)
+<img src="https://github.com/daveeazi/RSA-Factoring-Challenge/blob/main/images/RSA-img.JPG">
 
 ## Description
 
